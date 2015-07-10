@@ -42,20 +42,20 @@ working on an initial publication introducing them, so I will not say more about
 Inspired by issues with notable programming competition formats (e.g., ACM's programming competition),
 I've devised a new programming competition format that levels the field of entry to include/intrigue beginning and expert programmers equally (even non-programmers could compete) and awards iterative solution improvement.
 
-### Selected interesting past projects
+## Selected interesting past projects
 
-#### Generative Design book
+### Generative Design book
 
 Reviewed and assisted with technical translation for the English language translation of the award winning German text, [Gernerative Gestaltung][gen_gesaltung], by Hartmut Bohnacker, Benedikt Groß, and Julia Laub.
 
 [gen_gestaltung]: http://www.generative-gestaltung.de
 
-#### Activity-based character recognition
+### Activity-based character recognition
 An accurate and extremely low resource on-line character recognition system (US patent acquired).
 
-#### MVPP
+### MVPP
 The development of the Minimally Viable Product Process, an iterative return on investment based software process for dislocated and/or complexly scheduled teams.
 
-#### CAP
+### CAP
 The development of Collaborative Adversarial Pair (CAP) programming to maximize the efficiency of pair/group feature engineering while otherwise benefiting from the traditional gains of pair programming.
  
