@@ -10,10 +10,10 @@ Engineering Patent group.
 ## Why does this project exist?
 
 I never maintain my own web page... I regularly replace it with something I want to get to my students or colleagues.
-One month it could be an interactive web app that demonstrating a generative logo idea.
+One month it could be an interactive web app demonstrating a generative logo idea.
 One month it might be a take home exam.
 The next two months it might be a programming competition write up.
-`I just don't feel like maintaining a traditional page... so here this is :-)
+I just don't feel like maintaining a traditional page... so here this is :-)
 
 ## Selected recent projects
 
