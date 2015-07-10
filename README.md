@@ -46,7 +46,7 @@ I've devised a new programming competition format that levels the field of entry
 
 ### Generative Design book
 
-Reviewed and assisted with technical translation for the English language translation of the award winning German text, [Gernerative Gestaltung][gen_gesaltung], by Hartmut Bohnacker, Benedikt Groß, and Julia Laub.
+Reviewed and assisted with technical translation for the English language translation of the award winning German text, [Gernerative Gestaltung][gen_gestaltung], by Hartmut Bohnacker, Benedikt Groß, and Julia Laub.
 
 [gen_gestaltung]: http://www.generative-gestaltung.de
 
