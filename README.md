@@ -1,10 +1,9 @@
 # About me
 _**Information about me and some stuff I work on**_
 
-My name is Dr. William "Amos" Confer.  I'm a [computer science][csdept] professor at the [State University of New York Polytechnic Institute][sunypi] and formerly a managing Staff Engineer at Samsung Mobile working with the Advanced Projects team and leading the Mobile Network Operators
+My name is Dr. William "Amos" Confer.  I'm an Associate Professor and Chair of the Department of Computer Science at the [State University of New York Polytechnic Institute][sunypi] and formerly a managing Staff Engineer at Samsung Mobile working with the Advanced Projects team and leading the Mobile Network Operators
 Engineering Patent group.
 
-[csdept]: http://www.cs.sunyit.edu
 [sunypi]: http://www.sunypoly.edu
 
 ## Why does this project exist?
@@ -20,7 +19,7 @@ I just don't feel like maintaining a traditional page... so here this is :-)
 ### MiniAT
 My primary work right now is the [MiniAT Virtual Embedded Architecture][miniat] project, recently rewriting the assembler from scratch to provide a novel style assembly language grammar for the MiniAT, easily read and written by even entry-level assembly programmers.
 
-[miniat]: http://www.miniat.org
+[miniat]: https://bitbucket.org/miniat/0x1-miniat
 
 ### Exploring SE for Android
 
@@ -40,7 +39,9 @@ working on an initial publication introducing them, so I will not say more about
 ### "Flat" programming competitions
 
 Inspired by issues with notable programming competition formats (e.g., ACM's programming competition),
-I've devised a new programming competition format that levels the field of entry to include/intrigue beginning and expert programmers equally (even non-programmers could compete) and awards iterative solution improvement.
+I've devised a new programming competition format that levels the field of entry to include/intrigue beginning and expert programmers equally (even non-programmers could compete) and awards iterative solution improvement.  A [short paper][programming_paper] was published in 2016 describing the model, its motivation, and outcomes of several trials.
+
+[programming_paper]: https://dl.acm.org/doi/abs/10.5555/2904298.2904324
 
 ## Selected interesting past projects
 
